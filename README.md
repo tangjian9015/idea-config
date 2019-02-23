@@ -7,4 +7,4 @@ Idea Live Templates代码模板设置
 ## keymap-shkstart.jar
 Idea setting 插件包，实现同eclipse一样的快捷键  
 File-->Import Settings...导入即可  
-![Import Settings](https://github.com/tangjian9015/idea-config/blob/master/import_settings.gif ''Import Settings'')
+![Import Settings](/import_settings.gif ''Import Settings'')
